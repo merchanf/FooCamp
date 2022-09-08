@@ -1,0 +1,26 @@
+
+#rojo {
+  background: red;
+  width: 350px;
+  height: 350px;
+  position: relative;
+}
+
+#verde {
+  background: green;
+  width: 275px;
+  height: 275px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+#azul {
+  background: blue;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
